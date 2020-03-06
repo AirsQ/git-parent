@@ -1,0 +1,3 @@
+[submodule "mymoudle"]
+	path = mymoudle
+	url = git@github.com:AirsQ/git-child.git
